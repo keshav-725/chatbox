@@ -3,16 +3,20 @@
 ## Backend:
 * Clone the Backend part in chatbox folder
 * Run npm install to install all dependencies
-$ npm install
 * Start Server using npm start
+```
+$ npm install
 $ npm start
+```
 
 ## Frontend
 * Clone the frontend part in chatbox folder
 * Run npm install to install all frontend dependencies
-$ npm install
 * Start frontend using npm start
+```
+$ npm install
 $ npm start
+```
 * Navigate to http://localhost:3000/register
 
 ### Additional Feature : 
